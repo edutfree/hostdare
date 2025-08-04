@@ -2,11 +2,11 @@
 
 
 
-## hostdare 4.5折促销
+## hostdare 4.5折促销 内存+带宽免费翻倍
 
 优惠促销至 2025-08-15 结束。
 
-4.5折优惠码：[C513BD1YNZ](https://manage.hostdare.com/aff.php?aff=847&pid=113/168-hostdare-61 "点击复制优惠码并直达下单") 
+4.5折优惠码：[C513BD1YNZ](https://manage.hostdare.com/aff.php?aff=847&pid=113 "点击复制优惠码并直达下单") 
 
 下面是部分促销套餐信息：
 
