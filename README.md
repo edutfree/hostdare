@@ -1,6 +1,8 @@
 # hostdare优惠码vps促销套餐整理
 
+HostDare，是一个2014年左右成立的小众海外主机商，提供高性价比便宜稳定VPS主机方案。有 NVMe 高速硬盘，也有 GIA CN2 高速线路套餐。
 
+官网：[hostdare.com](https://manage.hostdare.com/aff.php?aff=847&gid=1)
 
 ## hostdare 4.5折促销 内存+带宽免费翻倍
 
@@ -19,3 +21,8 @@
 | 4GB+4GB | 3核  | 100GB | 3000GB+3000GB/月 | 500M | $58.95/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=62)** |
 | 8GB+8GB | 4核  | 200GB | 5000GB+5000GB/月 | 500M | $112.95/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=102)** |
 | 16GB+16GB | 5核  | 400GB | 10000GB+10000GB/月 | 500M | $216.45/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=103)** |
+
+
+## 为什么选择 HostDare？
+
+HostDare 以其高性价比 VPS 服务在业内享有良好口碑。无论是 CN2 GIA 高速线路，还是 NVMe 高速硬盘，都使其成为值得信赖的托管选择。HostDare 全年推出多样化促销活动，帮助用户以更低的成本获得优质服务。
