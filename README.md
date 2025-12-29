@@ -4,6 +4,24 @@ HostDare，是一个2014年左右成立的小众海外主机商，提供高性�
 
 官网：[hostdare.com](https://manage.hostdare.com/aff.php?aff=847&gid=1)
 
+## hostdare 5折促销 内存+带宽免费翻倍
+
+2026元旦5折优惠码：[DEAL50](https://manage.hostdare.com/aff.php?aff=847&pid=113) 
+
+下面是部分促销套餐信息：
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| 内存  | 核心  | 硬盘  | 流量  | 带宽  | 价格  | 选择  |
+| 768MB+756MB | 1核  | 10GB | 500GB+500GB/月 | 200M | $12.99/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=113)** |
+| 1GB+1GB | 1核  | 25GB | 1000GB+1000GB/月 | 500M | $19.99/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=60)** |
+| 2GB+2GB | 2核  | 50GB | 2000GB+2000GB/月 | 500M | $35.49/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=61)** |
+| 4GB+4GB | 3核  | 100GB | 3000GB+3000GB/月 | 500M | $65.49/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=62)** |
+| 8GB+8GB | 4核  | 200GB | 5000GB+5000GB/月 | 500M | $125.49/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=102)** |
+| 16GB+16GB | 5核  | 400GB | 10000GB+10000GB/月 | 500M | $240.49/年 | **[链接](https://manage.hostdare.com/aff.php?aff=847&pid=103)** |
+
+还有 洛杉矶 CN2 gia - CSSD/CAMD 套餐8折优惠码：[VU6E1H58UY](https://manage.hostdare.com/aff.php?aff=847&pid=106)
+
 ## hostdare 4.5折促销 内存+带宽免费翻倍
 
 优惠促销至 2025-08-15 结束。
